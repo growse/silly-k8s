@@ -1,5 +1,7 @@
 # What's the silliest way of implementing Kubernetes?
 
+> You know what kubernetes is? Do you know what it is? It's 20 while true loops in a trench coat pretending to be a control plane. And that's fine! - [Hazel Weakley](https://www.linkedin.com/posts/hazelweakly_if-your-service-cant-be-run-on-a-laptop-activity-7164055151618584576-PpfU)
+
 A very silly idea. Obviously in Rust.
 
 ## Todo
